@@ -7,3 +7,7 @@ With over 10 years professional experience, I've been building up my skills in d
 In my spare time, I also write [articles](https://david.darn.es) and work on [open-source projects](https://daviddarnes.github.io), such as [Anchor CMS](https://github.com/anchorcms/anchor-cms) and [Alembic theme](https://alembic.darn.es).
 
 If you'd like chat, [get in touch](mailto:me@daviddarnes.com "my email").
+
+[<img src="https://simpleicons.org/icons/twitter.svg" width="24" height="24"/>](https://twitter.com/daviddarnes)
+[<img src="https://simpleicons.org/icons/codepen.svg" width="24" height="24"/>](https://codepen.com/daviddarnes)
+[<img src="https://simpleicons.org/icons/dribbble.svg" width="24" height="24"/>](https://dribbble.com/daviddarnes)

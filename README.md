@@ -1,8 +1,8 @@
 ![1500x500](https://user-images.githubusercontent.com/1177460/87433755-9b2db980-c5e1-11ea-9f0c-e209c931099b.jpg)
 
-**Hi, my name's Dave. I'm a Web Designer and Front-end Developer based in Bristol UK, currently working at [Stackbit](https://stackbit.com) as part of the Developer Relations team.**
+**Hi, my name's Dave. I'm a Freelance Designer, Front-end Developer & Writer based in Bristol UK.**
 
-With over 11 years professional experience, I've been building up my skills in design, UI development, and front-end development, working with some really exciting people like [Ghost](https://ghost.org), [Envato Tuts+](https://tutsplus.com/) and [BaseKit](https://basekit.com).
+With over 11 years professional experience, I've been building up my skills in design, UI development, and front-end development, working with some really exciting people like [Ghost](https://ghost.org), [Stackbit](https://stackbit.com), [Envato Tuts+](https://tutsplus.com/) and [BaseKit](https://basekit.com).
 
 In my spare time, I also write [articles](https://david.darn.es) and work on [open-source projects](https://daviddarnes.github.io), such as [Anchor CMS](https://github.com/anchorcms/anchor-cms) and [Alembic theme](https://alembic.darn.es).
 
